@@ -1,0 +1,1 @@
+Poursuite d'objets en utlisant les GMMs ( mélange de gaussiennes).
